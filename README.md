@@ -20,4 +20,4 @@ with it.
 
 ### Result
 
-* Accuracy of this model comes out to be around 99.52% .
+* Accuracy of this model comes out to be around 99.52 .
