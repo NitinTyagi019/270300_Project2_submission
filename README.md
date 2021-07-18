@@ -17,3 +17,7 @@ with it.
 * Adam Optimiser shapes your model into its most accurate form.
 * The loss function is the guide to tell the optimiser whether it is moving right or wrong direction. Loss function used here is sparse_categorical_crossentropy.
 * Metrics used here is Accuracy. Accuracy is proportional to true results among total no. of cases examined.
+
+### Result
+
+* Accuracy of this model comes out to be around 99.52%
