@@ -1,5 +1,7 @@
 # 270300_Digit Recognizer
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d7ad9871482a49b0b912db0b256cfade)](https://www.codacy.com/gh/NitinTyagi019/270300_Project2_submission/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NitinTyagi019/270300_Project2_submission&amp;utm_campaign=Badge_Grade)
+
 ## Model Building
 
 ### The model used here is sequential.
@@ -22,4 +24,4 @@ with it.
 
 * Accuracy of this model comes out to be around 99.52 .
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d7ad9871482a49b0b912db0b256cfade)](https://www.codacy.com/gh/NitinTyagi019/270300_Project2_submission/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NitinTyagi019/270300_Project2_submission&amp;utm_campaign=Badge_Grade)
+
